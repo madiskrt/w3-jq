@@ -1,1 +1,1 @@
-# w3-jq
+# w3schools JQuery
